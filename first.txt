@@ -1,0 +1,13 @@
+Start to learn Git
+
+1- git init
+
+2- git add .
+
+3- git commit -m "first commit"
+
+// create repo in github
+
+4- copier coller from GitHub git remote ......
+
+5- git push -u origin master
